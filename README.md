@@ -1,11 +1,11 @@
-#BollywoodApp (Node + Angular2 + Ngrx)
+# BollywoodApp (Node + Angular2 + Ngrx)
 1. It shows the list of UpComing Movie of 2018
 
-##Install
+## Install
 1. npm install
 
-##Run
+## Run
 1. npm start
 
-##BackLog
+## BackLog
 1. xxxx
