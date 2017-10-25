@@ -1,0 +1,208 @@
+{
+  "movies" : [
+    {
+      "id": 1, 
+      "title": "Raees",
+      "url": "http://t2.gstatic.com/images?q=tbn:ANd9GcS4PwRgsY3SW8N-y6XkBrsusLKN79p5KFWwhuXBWZyG-YUhpLIb",
+      "cast": [
+        "Shah Rukh Khan", 
+        "Mahira Khan", 
+        "Nawazuddin Siddiqui", 
+        "Mohammed Zeeshan Ayyub", 
+        "Sheeba Chaddha, S",
+        "hubham Chintamani" 
+      ],
+      "genre": "Crime/Action",
+      "studio": [
+        "Red Chillies Entertainment",
+        "Excel Entertainment"
+      ]
+    },
+    {
+      "id": 2, 
+      "title": "Jolly LLB 2",
+      "url": "http://t2.gstatic.com/images?q=tbn:ANd9GcQYJIGmlwN42rEKMWU4uwpHLfQwkF5y2cRpnkCjNVWl7_yJDvtJ",
+      "cast": [
+        "Akshay Kumar", 
+        "Huma Qureshi", 
+        "Saurabh Shukla", 
+        "Annu Kapoor", 
+        "Kaustubh Pile", 
+        "Manav Kaul", 
+        "Inaamulhaq", 
+        "Kumud" 
+      ],
+      "genre": "Drama",
+      "studio": ["Fox Star studios"]
+    },
+    {
+      "id": 3, 
+      "title": "Haraamkhor",
+      "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Haraamkhor.jpg/220px-Haraamkhor.jpg",
+      "cast": [
+        "Nawazuddin Siddiqui", 
+        "Shweta Tripathi", 
+        "Trimala Adhikari", 
+        "Mohd Samad", 
+        "Irfan Khan", 
+        "Harish Khanna", 
+        "Shreya Shah"
+      ],
+      "genre": "Drama",
+      "studio": []
+    },
+    {
+      "id": 4, 
+      "title": "Ok Jaanu",
+      "url": "http://t0.gstatic.com/images?q=tbn:ANd9GcS6tNzbhG_WQvoi2Ne0RK84SDCMyKftqwoSuIL0fUPGaZ1qqElq",
+      "cast": [
+        "Aditya Roy Kapur", 
+        "Shraddha Kapoor", 
+        "Leela Samson", 
+        "Naseeruddin Shah", 
+        "Jasmeet Singh", 
+        "Prahlad Kakkar", 
+        "Kitu Gidwani", 
+        "Sanjay Gurbaxani", 
+        "Sarika Singh", 
+        "Sharma Vibhoutee", 
+        "Vijayant Kohli" 
+      ],
+      "genre": "Drama",
+      "studio": ["Madras Talkies", "Dharma Productions"]
+    },
+    {
+      "id": 5, 
+      "title": "The Ghazi Attack",
+      "url": "http://t0.gstatic.com/images?q=tbn:ANd9GcSgpYycUrTuVMzsjSUXTqIRNqFaQl8Fat4kLeXxA-GbHZ0xmewz",
+      "cast": [
+        "Rana Daggubati", 
+        "Kay Kay Menon", 
+        "Atul Kulkarni", 
+        "Taapsee Pannu", 
+        "Om Puri", 
+        "Satyadev Kancharana", 
+        "Ravi Varma", 
+        "Priyadarshi Pullikonda", 
+        "Nassar", 
+        "Bharath Reddy", 
+        "Thiruveer", 
+        "Rahul Singh", 
+        "Milind Gunaji", 
+        "Jay Jha", 
+        "Capt SN Ahmed", 
+        "Niteesh Pandey", 
+        "Kunal Kaushik", 
+        "Malyaban Lahiri", 
+        "Naren Yadav", 
+        "Ramanuj Dubey", 
+        "Ravi Kumar Shada", 
+        "Akshay Mittal" 
+      ],
+      "genre": "Drama",
+      "studio": ["PVP Cinema","Matinee Entertainment"]
+    },
+    {
+      "id": 6, 
+      "title": "Raees",
+      "url": "http://t2.gstatic.com/images?q=tbn:ANd9GcS4PwRgsY3SW8N-y6XkBrsusLKN79p5KFWwhuXBWZyG-YUhpLIb",
+      "cast": [
+        "Shah Rukh Khan", 
+        "Mahira Khan", 
+        "Nawazuddin Siddiqui", 
+        "Mohammed Zeeshan Ayyub", 
+        "Sheeba Chaddha, S",
+        "hubham Chintamani" 
+      ],
+      "genre": "Crime/Action",
+      "studio": [
+        "Red Chillies Entertainment",
+        "Excel Entertainment"
+      ]
+    },
+    {
+      "id": 7, 
+      "title": "Jolly LLB 2",
+      "url": "http://t2.gstatic.com/images?q=tbn:ANd9GcQYJIGmlwN42rEKMWU4uwpHLfQwkF5y2cRpnkCjNVWl7_yJDvtJ",
+      "cast": [
+        "Akshay Kumar", 
+        "Huma Qureshi", 
+        "Saurabh Shukla", 
+        "Annu Kapoor", 
+        "Kaustubh Pile", 
+        "Manav Kaul", 
+        "Inaamulhaq", 
+        "Kumud" 
+      ],
+      "genre": "Drama",
+      "studio": ["Fox Star studios"]
+    },
+    {
+      "id": 8, 
+      "title": "Haraamkhor",
+      "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Haraamkhor.jpg/220px-Haraamkhor.jpg",
+      "cast": [
+        "Nawazuddin Siddiqui", 
+        "Shweta Tripathi", 
+        "Trimala Adhikari", 
+        "Mohd Samad", 
+        "Irfan Khan", 
+        "Harish Khanna", 
+        "Shreya Shah"
+      ],
+      "genre": "Drama",
+      "studio": []
+    },
+    {
+      "id": 9, 
+      "title": "Ok Jaanu",
+      "url": "http://t0.gstatic.com/images?q=tbn:ANd9GcS6tNzbhG_WQvoi2Ne0RK84SDCMyKftqwoSuIL0fUPGaZ1qqElq",
+      "cast": [
+        "Aditya Roy Kapur", 
+        "Shraddha Kapoor", 
+        "Leela Samson", 
+        "Naseeruddin Shah", 
+        "Jasmeet Singh", 
+        "Prahlad Kakkar", 
+        "Kitu Gidwani", 
+        "Sanjay Gurbaxani", 
+        "Sarika Singh", 
+        "Sharma Vibhoutee", 
+        "Vijayant Kohli" 
+      ],
+      "genre": "Drama",
+      "studio": ["Madras Talkies", "Dharma Productions"]
+    },
+    {
+      "id": 10, 
+      "title": "The Ghazi Attack",
+      "url": "http://t0.gstatic.com/images?q=tbn:ANd9GcSgpYycUrTuVMzsjSUXTqIRNqFaQl8Fat4kLeXxA-GbHZ0xmewz",
+      "cast": [
+        "Rana Daggubati", 
+        "Kay Kay Menon", 
+        "Atul Kulkarni", 
+        "Taapsee Pannu", 
+        "Om Puri", 
+        "Satyadev Kancharana", 
+        "Ravi Varma", 
+        "Priyadarshi Pullikonda", 
+        "Nassar", 
+        "Bharath Reddy", 
+        "Thiruveer", 
+        "Rahul Singh", 
+        "Milind Gunaji", 
+        "Jay Jha", 
+        "Capt SN Ahmed", 
+        "Niteesh Pandey", 
+        "Kunal Kaushik", 
+        "Malyaban Lahiri", 
+        "Naren Yadav", 
+        "Ramanuj Dubey", 
+        "Ravi Kumar Shada", 
+        "Akshay Mittal" 
+      ],
+      "genre": "Drama",
+      "studio": ["PVP Cinema","Matinee Entertainment"]
+    }
+  ]
+}
